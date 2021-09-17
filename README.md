@@ -51,9 +51,7 @@ Project Link: [https://github.com/aljubrmj/CS231N-Computer-Vision-Project](https
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [] Satanford AI for Climate Change Bootcamp (This project is part of group effort within this program)
-* []()
-* []()
+* Satanford AI for Climate Change Bootcamp (This project is part of group effort within this program)
 
 
 
