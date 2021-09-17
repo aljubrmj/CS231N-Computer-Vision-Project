@@ -18,7 +18,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Stanford CS231N Course Final Project</h3>
+  <h3 align="center">Stanford CS231N Course Final Project (Code is Confidential as it Relates to the AICC Bootcamp)</h3>
 
   <p align="center">
 State-of-the-art wind turbine are based on voluntary surveys and self-reports. This approach is expensive, time-consuming, and prone to human error. Hence, automated high-fidelity wind turbine localization using computer vision and satellite imagery is proposed as a sustainable solution. A pipeline model is developed and evaluated to accomplish this task using two main modules: detection and localization. Detection is casted as a binary classification task, and it is performed by training a DenseNet121 network, achieving accuracy, AUROC, precision, and recall of 0.995, 0.998, 0.981, and 1.000, respectively, on the test set. Grad-CAM is used to generate heatmaps to further understand the model behavior and facilitate counting and localizing wind turbines. Semi- and weakly- supervised models are developed to use the Grad-CAM heatmaps and output count and location of wind turbines. The weakly-supervised model is found to be superior in performance with 0.907 in counting recall. It is observed that counting false negative instances are due to the fact that wind turbines sometimes appear incomplete as they occur at the edge of the tile, and that Grad-CAM heatmap signal is not sufficiently indicative in some cases. 
@@ -48,7 +48,12 @@ Name: [@MJAljubran](https://twitter.com/twitter_handle) - m.j.aljubran@gmail.com
 Project Link: [https://github.com/aljubrmj/CS231N-Computer-Vision-Project](https://github.com/aljubrmj/CS231N-Computer-Vision-Project)
 
 
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
 
+* [] Satanford AI for Climate Change Bootcamp (This project is part of group effort within this program)
+* []()
+* []()
 
 
 
